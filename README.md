@@ -1,0 +1,1 @@
+Postgres/ PostGIS template database created with postgreSQL verion 9.2
